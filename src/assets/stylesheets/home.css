@@ -1,0 +1,39 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  width: 100%;
+}
+#inspire{
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+
+.container.fill-height {
+  align-items: normal;
+}
+
+a.side_bar_link {
+  text-decoration: none;
+}
+
+.card__title--primary, .card__text {
+  text-align: left;
+}
+
+.card {
+  border: 1px solid gray;
+  height: 100% !important;
+}
+.xs4 {
+  border: 0.1px solid lightgray;
+}
+.headline {
+  text-align: left;
+}
+.grey--text {
+  font-size: small;
+  text-align: center;
+}
+
