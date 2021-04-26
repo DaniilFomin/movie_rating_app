@@ -1,1 +1,1 @@
-# Nothing intresting just sample project for learnin Vue
+# Nothing intresting just sample project for learning Vue
